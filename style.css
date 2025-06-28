@@ -1,0 +1,25 @@
+#container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: x-large;
+}
+button{
+    font-size: large;
+    border-radius: 15px;
+    background-color: rgb(95, 70, 119);
+    border: none;
+}
+button:hover{
+    background-color: rgb(204, 185, 221);
+}
+input{
+    width: 100px;
+    text-align: center;
+    border-radius: 15px;
+    font-size: large;
+}
+.image{
+  width: 250px;
+  height: 250px;
+}
